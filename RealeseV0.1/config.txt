@@ -1,0 +1,8 @@
+D:\Siemens\NX10.0
+D:\Siemens\NX11.0
+D:\Siemens\NX12.0
+D:\Siemens\NX1847
+C:\VS\VS11.0\Common7\IDE\devenv.exe
+C:\VS\VS12.0\Common7\IDE\devenv.exe
+C:\VS\VS14.0\Common7\IDE\devenv.exe
+C:\VS\VS2017\Common7\IDE\devenv.exe
