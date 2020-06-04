@@ -1,4 +1,1 @@
-D:\UDSEDM\output_nx11
-D:\NXAPP\MeiLei_tool
 D:\NXAPP\QuickCAM
-D:\NXAPP\UP_Software
